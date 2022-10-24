@@ -12,9 +12,9 @@ A brief description of the universe in a single page application.
   <a href="#-learnings">Learnings</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-improvements">Improvements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-feedback">Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-deploy">Deploy</a>
+  <a href="#-author">Author</a>
 </p>
 
 
@@ -49,6 +49,11 @@ Refactorings, performance and accessibility.
 You can view the layout of the project through [THIS LINK](https://www.figma.com/file/yMsarlPtaGaRIqZLCVQTdP/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=104%3A48). You need an account on [Figma](https://figma.com) to access it.
 
 
+## 🚀 Deploy
+
+https://spa-universe-ricardodev10.netlify.app/
+
+
 ## 🙂 Feedback
 
 If you have any feedback, please send it to me at ricardodev10@yahoo.com
@@ -57,8 +62,3 @@ If you have any feedback, please send it to me at ricardodev10@yahoo.com
 ## 💛 Author
 
 Made with ♥ by [Ricardo Junior](https://www.linkedin.com/in/ricardodev10/) :wave:
-
-
-## 🚀 Deploy
-
-https://spa-universe-ricardodev10.netlify.app/
