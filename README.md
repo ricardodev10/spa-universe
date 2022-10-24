@@ -46,7 +46,7 @@ Refactorings, performance and accessibility.
 
 ## 🎨 Layout
 
-You can view the layout of the project through [THIS LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). You need an account on [Figma](https://figma.com) to access it.
+You can view the layout of the project through [THIS LINK](https://www.figma.com/file/yMsarlPtaGaRIqZLCVQTdP/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=104%3A48). You need an account on [Figma](https://figma.com) to access it.
 
 
 ## 🙂 Feedback
